@@ -1,0 +1,2 @@
+#Ignore file .ino used to test the library
+*.ino
