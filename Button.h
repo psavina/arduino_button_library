@@ -34,6 +34,8 @@
 #ifndef __BUTTON_LIB_H_
 #define __BUTTON_LIB_H_
 
+#include "Arduino.h"
+
 class Button {
 private:
   unsigned short int       _ButtonPin;
